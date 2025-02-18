@@ -22,7 +22,7 @@ async def start_message(c,m):
             [[
                 InlineKeyboardButton('Bᴏᴛs Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ⚡', url='https://t.me/MisterBrutal')
             ],[
-                InlineKeyboardButton("Mᴏᴠɪᴇs Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🍿", url='https://Filmaze_In')
+                InlineKeyboardButton("Mᴏᴠɪᴇs Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🍿", url='https://t.me/Filmaze_In')
             ]]
         )
     )
